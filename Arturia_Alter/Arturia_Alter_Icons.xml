@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Arturia_Alter_Icons -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 12/23/2018 8:32:56 PM -->
+<GameData>
+	<IconTextureAtlases>
+		
+		<Row Name="ICON_FATE_ARTURIA_ALTER_ATLAS" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_ARTURIA_ALTER_32"/>
+		<Row Name="ICON_FATE_ARTURIA_ALTER_ATLAS" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_ARTURIA_ALTER_45"/>
+		<Row Name="ICON_FATE_ARTURIA_ALTER_ATLAS" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_ARTURIA_ALTER_48"/>
+		<Row Name="ICON_FATE_ARTURIA_ALTER_ATLAS" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_ARTURIA_ALTER_50"/>
+		<Row Name="ICON_FATE_ARTURIA_ALTER_ATLAS" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_ARTURIA_ALTER_55"/>
+		<Row Name="ICON_FATE_ARTURIA_ALTER_ATLAS" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_ARTURIA_ALTER_64"/>
+		<Row Name="ICON_FATE_ARTURIA_ALTER_ATLAS" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_ARTURIA_ALTER_80"/>
+		<Row Name="ICON_FATE_ARTURIA_ALTER_ATLAS" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_ARTURIA_ALTER_256"/>
+
+		
+		<Row Name="ICON_FATE_ARTURIA_ALTER_CIV" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_ARTURIAENT_ALTER_CIV"/>
+		
+		
+	</IconTextureAtlases>
+	<IconDefinitions>
+		
+		<Row Name="ICON_LEADER_ARTURIAENT_ALTER" Atlas="ICON_FATE_ARTURIA_ALTER_ATLAS" Index="0"/>
+		
+		<Row Name="ICON_LEADER_ARTURIAENT_ALTER_CIV" Atlas="ICON_FATE_ARTURIA_ALTER_CIV" Index="0"/>
+		
+
+	</IconDefinitions>
+
+</GameData>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Arturia_Alter_Leader -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 12/23/2018 8:13:35 PM -->
+<GameData>
+
+	
+	
+	<Types>
+		<Row Type="LEADER_ARTURIAENT_ALTER" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_EXCALIBUR_ALTER" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_AGENDA_THE_HONOR_OF_KNIGHT_KING_ALTER" Kind="KIND_TRAIT"/>
+	</Types>
+
+	<Leaders>
+		<Row>
+			<LeaderType>LEADER_ARTURIAENT_ALTER</LeaderType>
+			<Name>LOC_LEADER_ARTURIAENT_ALTER_NAME</Name>
+			<InheritFrom>LEADER_DEFAULT</InheritFrom>
+			<Sex>Female</Sex>
+		</Row>
+	</Leaders>
+	
+	
+
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_ENTBRITAIN" LeaderType="LEADER_ARTURIAENT_ALTER" CapitalName="LOC_CIVILIZATION_ENTBRITAIN_CITY_1"/>
+	</CivilizationLeaders>
+
+
+	<LeaderTraits>
+		<Row LeaderType="LEADER_ARTURIAENT_ALTER" TraitType="TRAIT_LEADER_EXCALIBUR_ALTER"/>
+		<Row LeaderType="LEADER_ARTURIAENT_ALTER" TraitType="TRAIT_LEADER_NONRELIGIOUS_MAJOR_CIV"/>
+		<Row LeaderType="LEADER_ARTURIAENT_ALTER" TraitType="TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"/>
+	</LeaderTraits>
+
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_ARTURIAENT_ALTER" Quote="LOC_LEADER_ARTURIAENT_ALTER_QUOTE"/>
+	</LeaderQuotes>
+
+
+	<Traits>
+		<Row TraitType="TRAIT_LEADER_EXCALIBUR_ALTER" Name="LOC_TRAIT_LEADER_EXCALIBUR_ALTER_NAME" Description="LOC_TRAIT_LEADER_EXCALIBUR_ALTER_DESCRIPTION"/>
+		<Row TraitType="TRAIT_AGENDA_THE_HONOR_OF_KNIGHT_KING_ALTER" Name="LOC_AGENDA_THE_HONOR_OF_KNIGHT_KING_NAME" Description="LOC_AGENDA_THE_HONOR_OF_KNIGHT_KING_DESCRIPTION"/>
+	</Traits>
+
+
+	<TraitModifiers>
+		
+		<!--
+		<Row TraitType="TRAIT_LEADER_EXCALIBUR_ALTER" ModifierId="TRAIT_EXCALIBUR_ALTER_SLOT_MILITARY"/>
+		<Row TraitType="TRAIT_LEADER_EXCALIBUR_ALTER" ModifierId="TRAIT_EXCALIBUR_ALTER_COMBAT"/>
+		-->
+	</TraitModifiers>
+	
+	<Modifiers>
+		<!--
+		<Row>
+			<ModifierId>TRAIT_EXCALIBUR_ALTER_SLOT_MILITARY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CULTURE_ADJUST_GOVERNMENT_SLOTS_MODIFIER</ModifierType>
+		</Row>
+
+		<Row>
+			<ModifierId>TRAIT_EXCALIBUR_ALTER_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_COMBAT_STRENGTH</ModifierType>
+		</Row>
+		-->
+		
+
+	</Modifiers>
+
+	<ModifierArguments>
+
+		<!--
+		<Row>
+			<ModifierId>TRAIT_EXCALIBUR_ALTER_SLOT_MILITARY</ModifierId>
+			<Name>GovernmentSlotType</Name>
+			<Value>SLOT_MILITARY</Value>
+		</Row>
+
+		<Row>
+			<ModifierId>TRAIT_EXCALIBUR_ALTER_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>3</Value>
+		</Row>
+		-->
+		
+		
+
+	</ModifierArguments>
+
+
+	<!--Agendas Info-->
+	<Agendas>
+		<Row AgendaType="AGENDA_THE_HONOR_OF_KNIGHT_KING_ALTER" Name="LOC_AGENDA_THE_HONOR_OF_KNIGHT_KING_NAME" Description="LOC_AGENDA_THE_HONOR_OF_KNIGHT_KING_DESCRIPTION"/>
+	</Agendas>
+	<HistoricalAgendas>
+		<Row LeaderType="LEADER_ARTURIAENT_ALTER" AgendaType="AGENDA_THE_HONOR_OF_KNIGHT_KING_ALTER"/>
+	</HistoricalAgendas>
+	<AgendaTraits>
+		<Row AgendaType="AGENDA_THE_HONOR_OF_KNIGHT_KING_ALTER" TraitType="TRAIT_AGENDA_THE_HONOR_OF_KNIGHT_KING_ALTER"/>
+	</AgendaTraits>
+	<ExclusiveAgendas>
+		<Row AgendaOne="AGENDA_THE_HONOR_OF_KNIGHT_KING_ALTER" AgendaTwo="AGENDA_PARANOID"/>
+		<Row AgendaOne="AGENDA_THE_HONOR_OF_KNIGHT_KING_ALTER" AgendaTwo="AGENDA_DARWINIST"/>
+	</ExclusiveAgendas>
+	<TraitModifiers>
+		<Row TraitType="TRAIT_AGENDA_THE_HONOR_OF_KNIGHT_KING_ALTER" ModifierId="AGENDA_NICE_ARTURIAENT_ALTER"/>
+		<Row TraitType="TRAIT_AGENDA_THE_HONOR_OF_KNIGHT_KING_ALTER" ModifierId="AGENDA_FALUT_ARTURIAENT_ALTER"/>
+		<Row TraitType="TRAIT_AGENDA_THE_HONOR_OF_KNIGHT_KING_ALTER" ModifierId="AGENDA_FATE_ARTURIA_ALTER_LOW_FOOD"/>
+	</TraitModifiers>
+	<Modifiers>
+		<Row>
+			<ModifierId>AGENDA_NICE_ARTURIAENT_ALTER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_DECLARED_FRIEND</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FALUT_ARTURIAENT_ALTER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_DECLARES_SURPRISE_WAR</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FATE_ARTURIA_ALTER_LOW_FOOD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>FATE_ARTURIA_ALTER_LOW_FOOD</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+	<RequirementSets>
+
+		<Row>
+			<RequirementSetId>FATE_ARTURIA_ALTER_LOW_FOOD</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		
+	</RequirementSets>
+	<RequirementSetRequirements>
+
+		<Row>
+			<RequirementSetId>FATE_ARTURIA_ALTER_LOW_FOOD</RequirementSetId>
+			<RequirementId>REQUIRES_MAJOR_CIV_OPPONENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>FATE_ARTURIA_ALTER_LOW_FOOD</RequirementSetId>
+			<RequirementId>REQUIRES_MET_30_TURNS_AGO</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>FATE_ARTURIA_ALTER_LOW_FOOD</RequirementSetId>
+			<RequirementId>REQUIRES_FATE_ARTURIA_ALTER_LOW_FOOD</RequirementId>
+		</Row>
+		
+	</RequirementSetRequirements>
+	<Requirements>
+		<Row>
+			<RequirementId>REQUIRES_FATE_ARTURIA_ALTER_LOW_FOOD</RequirementId>
+			<RequirementType>REQUIREMENT_PLAYER_YIELD_LEAD</RequirementType>
+		</Row>
+
+	</Requirements>
+	<RequirementArguments>
+
+		<Row>
+			<RequirementId>REQUIRES_FATE_ARTURIA_ALTER_LOW_FOOD</RequirementId>
+			<Name>MinimumDelta</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<RequirementId>REQUIRES_FATE_ARTURIA_ALTER_LOW_FOOD</RequirementId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<RequirementId>REQUIRES_FATE_ARTURIA_ALTER_LOW_FOOD</RequirementId>
+			<Name>YieldRatio</Name>
+			<Value>-1.15</Value>
+		</Row>
+
+
+	</RequirementArguments>
+	<ModifierArguments>
+
+
+		<Row>
+			<ModifierId>AGENDA_FATE_ARTURIA_ALTER_LOW_FOOD</ModifierId>
+			<Name>InitialValue</Name>
+			<Value>-666</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FATE_ARTURIA_ALTER_LOW_FOOD</ModifierId>
+			<Name>StatementKey</Name>
+			<Value>LOC_LEADER_ARTURIAENT_ALTER_QUOTE</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FATE_ARTURIA_ALTER_LOW_FOOD</ModifierId>
+			<Name>SimpleModifierDescription</Name>
+			<Value>LOC_LEADER_ARTURIAENT_ALTER_QUOTE</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FATE_ARTURIA_ALTER_LOW_FOOD</ModifierId>
+			<Name>HiddenAgenda</Name>
+			<Value>true</Value>
+		</Row>
+		
+		
+		
+		<Row>
+			<ModifierId>AGENDA_NICE_ARTURIAENT_ALTER</ModifierId>
+			<Name>InitialValue</Name>
+			<Value>0</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_NICE_ARTURIAENT_ALTER</ModifierId>
+			<Name>MaxValue</Name>
+			<Value>6</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_NICE_ARTURIAENT_ALTER</ModifierId>
+			<Name>IncrementValue</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_NICE_ARTURIAENT_ALTER</ModifierId>
+			<Name>IncrementTurns</Name>
+			<Value>3</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_NICE_ARTURIAENT_ALTER</ModifierId>
+			<Name>StatementKey</Name>
+			<Value>LOC_DIPLO_KUDO_LEADER_ARTURIAENT_REASON_ANY</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_NICE_ARTURIAENT_ALTER</ModifierId>
+			<Name>SimpleModifierDescription</Name>
+			<Value>LOC_DIPLO_MODIFIER_THE_HONOR_OF_KNIGHT_KING_FRIEND</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FALUT_ARTURIAENT_ALTER</ModifierId>
+			<Name>InitialValue</Name>
+			<Value>-20</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FALUT_ARTURIAENT_ALTER</ModifierId>
+			<Name>ReductionTurns</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FALUT_ARTURIAENT_ALTER</ModifierId>
+			<Name>ReductionValue</Name>
+			<Value>-4</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FALUT_ARTURIAENT_ALTER</ModifierId>
+			<Name>StatementKey</Name>
+			<Value>LOC_DIPLO_WARNING_LEADER_ARTURIAENT_REASON_ANY</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FALUT_ARTURIAENT_ALTER</ModifierId>
+			<Name>SimpleModifierDescription</Name>
+			<Value>LOC_DIPLO_MODIFIER_THE_HONOR_OF_KNIGHT_KING_SURPRISE_WAR</Value>
+		</Row>
+	</ModifierArguments>
+	<ModifierStrings>
+		<Row ModifierId="AGENDA_NICE_ARTURIAENT_ALTER" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+		<Row ModifierId="AGENDA_FALUT_ARTURIAENT_ALTER" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+		<Row ModifierId="AGENDA_FATE_ARTURIA_ALTER_LOW_FOOD" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+	</ModifierStrings>
+
+
+
+	<FavoredReligions>
+		<Row LeaderType="LEADER_ARTURIAENT_ALTER" ReligionType="RELIGION_CATHOLICISM"/>
+	</FavoredReligions>
+</GameData>

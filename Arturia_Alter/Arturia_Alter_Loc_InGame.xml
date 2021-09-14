@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Arturia_Alter_Loc_InGame -->
+<!-- Author: Entarogan -->
+<!-- DateCreated: 2018/12/30 14:26:43 -->
+<GameData>
+	<BaseGameText>
+
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>I admit this time since you are almost dying.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>How amusing! I hope someone would admit it around this world</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>I give you a chance to come to my side, a chance you won't get even if begging me on your knees.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>That could make sense.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>You shall pay for it someday.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>Uh? I don't mind tearing you apart at all.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>Well, it is time for you to vanish. Seeing your cities burning and people suffering, I will feel nothing, you know.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>Are you fools too stupid to make some real food like "Hamburger"? What trash stuff you sent me? </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>Impossible, I hate to see low orders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>I bestow a little gift to your stupid country. Don't get it wrong. It does not mean that you are no longer inferiors.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>Shut up!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>You're nothing other than an eyesore. (Denounces you).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>Inferior, King Arturia Pendragon stands here. To tell you my name is your best blessing. I shall let you know the fate that awaits you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>I give you a chance to visit our land. Do not touch anything, otherwise your men's hands will be cut down.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>Emm? It seems that I do have interest to pay a visit. But the next time I am afraid that your city will be in the fire.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>I am curious about the nest you called 'Capital'. Have you built a grave for yourself there?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>You again</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>This time I give you a chance to fight at my side.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>When your knees give in, I will take your head.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>Impossible.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>Stupid inferior, stop!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>Britain welcome you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>Impossible </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>We ask for permission to cross thy territory.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>It seems that some people want to bleed. I have worn you that I have no pity.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>Do not forget...your fate is waiting for you!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>Damn</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"    >
+			<Text>Right</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_ARTURIAENT_ALTER"    >
+			<Text>Having been violated by the curse of the Holy Grail, this is the side of the King of Knights that persists in being heartless.[NEWLINE]Maybe the "ideal king" that King Arthur pursued was something like this after all.[NEWLINE]Artoria used to contain her own power, but in this condition she wields powerful magical energy without hesitation.</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_ARTURIAENT_ALTER_QUOTE"    >
+			<Text>How to eat so little! </Text>
+		</Row>
+
+	</BaseGameText>
+
+
+	<LocalizedText>
+		
+	<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>看在你快死的份上我就接受吧。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>可笑。我真希望这世界上有谁会同意。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>我给你一个站在我这边的机会。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>这还差不多。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>你会付出代价的。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>啊？正好我根本不介意把你撕成碎片。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>很好，现在是你消失的时候了。看着你的城市变成火海，人民在痛苦中挣扎，我不会有任何感觉，你明白的。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>你们连汉堡那样真正的食物都做不出吗？你送给我的都是什么难以下咽的东西。 </Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>我不想看见你们这些奴隶。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>我给你所谓的“国家”赏赐一点礼物。别搞错了，这不意味着你们不再是下等人了。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>你说够了没有？</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>你除了一个碍眼的家伙什么都不是。（谴责你）</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>下等人,站在你面前的是国王阿尔托利亚·潘德拉贡。能听到我的名字已经是你最大的幸事，准备好接受你的命运吧。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>我给你这个机会来参观我们的土地。什么都别碰，不然把你们手全部剁下来。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>嗯？正好我有心情来看看你们的巢穴。不过下一次我担心你可怜的城市就会在火海中了。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>我对你称之为“首都”的场所感到好奇。你为自己修好坟墓了吗？</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_GREETING_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>又是你</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>这次我给你一个在我这边战斗的机会。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>你跪下的时候，我再来取你的人头。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>绝无可能</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>愚蠢的下等人，住手！</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>帝国欢迎你的到来，奴隶。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>绝无可能 </Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>我们要求通过你的边境。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>看起来有人想流血，我警告你我没有丝毫怜悯。</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>别忘了...你的命运正在等待着你...</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>可恶</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hans_CN" >
+		<Text>这还差不多</Text>
+	</Row>
+
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>看在妳快死的份上我就接受吧。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>可笑。我真希望這世界上有誰會同意。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>我給妳壹個站在我這邊的機會。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>這還差不多。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>妳會付出代價的。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>啊？正好我根本不介意把妳撕成碎片。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>很好，現在是妳消失的時候了。看著妳的城市變成火海，人民在痛苦中掙紮，我不會有任何感覺，妳明白的。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>妳們連漢堡那樣真正的食物都做不出嗎？妳送給我的都是什麽難以下咽的東西。 </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>我不想看見妳們這些奴隸。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>我給妳所謂的“國家”賞賜壹點禮物。別搞錯了，這不意味著妳們不再是下等人了。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>妳說夠了沒有？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>妳除了壹個礙眼的家夥什麽都不是。（譴責妳）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>下等人,站在妳面前的是國王阿爾托利亞·潘德拉貢。能聽到我的名字已經是妳最大的幸事，準備好接受妳的命運吧。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>我給妳這個機會來參觀我們的土地。什麽都別碰，不然把妳們手全部剁下來。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>嗯？正好我有心情來看看妳們的巢穴。不過下壹次我擔心妳可憐的城市就會在火海中了。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>我對妳稱之為“首都”的場所感到好奇。妳為自己修好墳墓了嗎？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>又是妳</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>這次我給妳壹個在我這邊戰鬥的機會。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>妳跪下的時候，我再來取妳的人頭。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>絕無可能</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>愚蠢的下等人，住手！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>帝國歡迎妳的到來，奴隸。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>絕無可能 </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>我們要求通過妳的邊境。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>看起來有人想流血，我警告妳我沒有絲毫憐憫。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>別忘了...妳的命運正在等待著妳...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>可惡</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ARTURIAENT_ALTER_ANY"   Language="zh_Hant_HK" >
+			<Text>這還差不多</Text>
+		</Row>
+
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_ARTURIAENT_ALTER"   Language="zh_Hans_CN" >
+			<Text>被圣杯的诅咒侵蚀，骑士王冷酷无情的另一面。[NEWLINE]亦或亚瑟王所追求的“理想之王”，[NEWLINE]正是这样的一种存在吧。[NEWLINE]阿尔托莉雅平时会克制自己的力量，[NEWLINE]但处于这种状态下的她,[NEWLINE]不会对使用强大魔力有丝毫的踌躇。</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_ARTURIAENT_ALTER"   Language="zh_Hant_HK" >
+			<Text>被聖杯的詛咒侵蝕，騎士王冷酷無情的另壹面。[NEWLINE]亦或亞瑟王所追求的“理想之王”，[NEWLINE]正是這樣的壹種存在吧。[NEWLINE]阿爾托莉雅平時會克制自己的力量，[NEWLINE]但處於這種狀態下的她,[NEWLINE]不會對使用強大魔力有絲毫的躊躇。</Text>
+		</Row>
+
+
+		<Row Tag="LOC_LEADER_ARTURIAENT_ALTER_QUOTE"   Language="zh_Hans_CN" >
+			<Text>吃的这么少怎么打仗！</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_ARTURIAENT_ALTER_QUOTE"   Language="zh_Hant_HK" >
+			<Text>吃的這麽少怎麽打仗！</Text>
+		</Row>
+
+
+
+
+	</LocalizedText>
+</GameData>

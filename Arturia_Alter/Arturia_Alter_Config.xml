@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Arturia_Alter_Config -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 12/23/2018 8:14:56 PM -->
+<GameData>
+	<Players>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ENTBRITAIN</CivilizationType>
+			<LeaderType>LEADER_ARTURIAENT_ALTER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ENTBRITAIN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_LEADER_ARTURIAENT_ALTER_CIV</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ARTURIAENT_ALTER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ARTURIAENT_ALTER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_CHIVALRY_COMMUNITY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_CHIVALRY_COMMUNITY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_LEADER_ARTURIAENT_ALTER_CIV</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_EXCALIBUR_ALTER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_EXCALIBUR_ALTER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ARTURIAENT_ALTER</LeaderAbilityIcon>
+			<Portrait>LEADER_FATE_ARTURIAENT_ALTER_NEUTRAL</Portrait>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ENTBRITAIN</CivilizationType>
+			<LeaderType>LEADER_ARTURIAENT_ALTER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ENTBRITAIN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_LEADER_ARTURIAENT_ALTER_CIV</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ARTURIAENT_ALTER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ARTURIAENT_ALTER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_CHIVALRY_COMMUNITY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_CHIVALRY_COMMUNITY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_LEADER_ARTURIAENT_ALTER_CIV</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_EXCALIBUR_ALTER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_EXCALIBUR_ALTER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ARTURIAENT_ALTER</LeaderAbilityIcon>
+			<Portrait>LEADER_FATE_ARTURIAENT_ALTER_NEUTRAL</Portrait>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_ENTBRITAIN</CivilizationType>
+			<LeaderType>LEADER_ARTURIAENT_ALTER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ENTBRITAIN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_LEADER_ARTURIAENT_ALTER_CIV</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ARTURIAENT_ALTER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ARTURIAENT_ALTER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_CHIVALRY_COMMUNITY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_CHIVALRY_COMMUNITY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_LEADER_ARTURIAENT_ALTER_CIV</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_EXCALIBUR_ALTER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_EXCALIBUR_ALTER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ARTURIAENT_ALTER</LeaderAbilityIcon>
+			<Portrait>LEADER_FATE_ARTURIAENT_ALTER_NEUTRAL</Portrait>
+		</Row>
+	</Players>
+	<PlayerItems>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ENTBRITAIN" LeaderType="LEADER_ARTURIAENT_ALTER" Type="UNIT_ROUND_TABLE" Icon="ICON_UNIT_ROUND_TABLE" Name="LOC_UNIT_ROUND_TABLE_NAME" Description="LOC_UNIT_ROUND_TABLE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ENTBRITAIN" LeaderType="LEADER_ARTURIAENT_ALTER" Type="BUILDING_ARTHURIAN_CASTLE" Icon="ICON_BUILDING_ARTHURIAN_CASTLE" Name="LOC_BUILDING_ARTHURIAN_CASTLE_NAME" Description="LOC_BUILDING_ARTHURIAN_CASTLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ENTBRITAIN" LeaderType="LEADER_ARTURIAENT_ALTER" Type="UNIT_ROUND_TABLE" Icon="ICON_UNIT_ROUND_TABLE" Name="LOC_UNIT_ROUND_TABLE_NAME" Description="LOC_UNIT_ROUND_TABLE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ENTBRITAIN" LeaderType="LEADER_ARTURIAENT_ALTER" Type="BUILDING_ARTHURIAN_CASTLE" Icon="ICON_BUILDING_ARTHURIAN_CASTLE" Name="LOC_BUILDING_ARTHURIAN_CASTLE_NAME" Description="LOC_BUILDING_ARTHURIAN_CASTLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ENTBRITAIN" LeaderType="LEADER_ARTURIAENT_ALTER" Type="UNIT_ROUND_TABLE" Icon="ICON_UNIT_ROUND_TABLE" Name="LOC_UNIT_ROUND_TABLE_NAME" Description="LOC_UNIT_ROUND_TABLE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ENTBRITAIN" LeaderType="LEADER_ARTURIAENT_ALTER" Type="BUILDING_ARTHURIAN_CASTLE" Icon="ICON_BUILDING_ARTHURIAN_CASTLE" Name="LOC_BUILDING_ARTHURIAN_CASTLE_NAME" Description="LOC_BUILDING_ARTHURIAN_CASTLE_DESCRIPTION" SortIndex="20"/>
+	</PlayerItems>
+</GameData>

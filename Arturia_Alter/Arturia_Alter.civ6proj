@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Arturia Alter of Britain</Name>
+    <Guid>c45cd125-726e-43dd-8c87-0c5fc7a8f1ff</Guid>
+    <ProjectGuid>9ec8d514-d085-42b8-b534-57a21117f23d</ProjectGuid>
+    <ModVersion>5</ModVersion>
+    <Teaser>Add Arturia Alter as a leader and Britain as a new civilization</Teaser>
+    <Description>All rights belong to TYPE-MOON</Description>
+    <Authors>Randerion &amp; Entarogan</Authors>
+    <SpecialThanks>All players, modders and TYPE-MOON.</SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <AssemblyName>Arturia_Alter</AssemblyName>
+    <RootNamespace>Arturia_Alter</RootNamespace>
+    <AssociationData><![CDATA[<Associations>
+  <Dependency type="Mod" title="Arturia of Britain" id="a25ad10a-e70c-423f-93e0-447da921c904" />
+</Associations>]]></AssociationData>
+    <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="LeaderCriteria"><LeaderPlayable>StandardPlayers::LEADER_ARTURIAENT_ALTER,Players:Expansion1_Players::LEADER_ARTURIAENT_ALTER,Players:Expansion2_Players::LEADER_ARTURIAENT_ALTER</LeaderPlayable></Criteria><Criteria id="LeaderCriteria_Expansion1"><LeaderPlayable>Players:Expansion1_Players::LEADER_ARTURIAENT_ALTER</LeaderPlayable><RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse></Criteria><Criteria id="LeaderCriteria_Expansion2"><LeaderPlayable>Players:Expansion2_Players::LEADER_ARTURIAENT_ALTER</LeaderPlayable><RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse></Criteria></ActionCriteria>]]></ActionCriteriaData>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="ArturiaAlterData"><File>Arturia_Alter_Config.xml</File></UpdateDatabase><UpdateArt id="ArturiaAlterArt"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateIcons id="ArturiaAlterIcons"><File>Arturia_Alter_Icons.xml</File></UpdateIcons><UpdateText id="ArturiaAlterTexts"><File>Arturia_Alter_Loc_Pre.xml</File></UpdateText></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="ArturiaAlterDatabase"><Criteria>LeaderCriteria</Criteria><File>Arturia_Alter_Leader.xml</File><File>Arturia_Alter_UI.xml</File></UpdateDatabase><UpdateIcons id="ArturiaAlterIcons"><Criteria>LeaderCriteria</Criteria><File>Arturia_Alter_Icons.xml</File></UpdateIcons><UpdateText id="ArturiaAlterTexts"><Criteria>LeaderCriteria</Criteria><File>Arturia_Alter_Loc_InGame.xml</File><File>Arturia_Alter_Loc_Pre.xml</File></UpdateText><UpdateArt id="ArturiaAlterArts"><Criteria>LeaderCriteria</Criteria><File>(Mod Art Dependency File)</File></UpdateArt><AddGameplayScripts id="ArturiaAlterLua"><Criteria>LeaderCriteria</Criteria><File>SaberAlter.lua</File></AddGameplayScripts></InGameActions>]]></InGameActionData>
+    <Homepage>
+    </Homepage>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Mod.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Arturia_Alter_Config.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Arturia_Alter_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Arturia_Alter_Leader.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Arturia_Alter_Loc_InGame.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Arturia_Alter_Loc_Pre.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Arturia_Alter_UI.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="SaberAlter.lua">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Arturia_Alter_UI -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 12/23/2018 8:32:33 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_ARTURIAENT_ALTER_PRIMARY</Type>
+			<Color>512,0,96,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_ARTURIAENT_ALTER_SECONDARY</Type>
+			<Color>249,241,233,255</Color>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_ARTURIAENT_ALTER</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_ARTURIAENT_ALTER_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_ARTURIAENT_ALTER_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_BLACK_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<LoadingInfo>
+		<Row LeaderType="LEADER_ARTURIAENT_ALTER" ForegroundImage="LEADER_NEUTRAL_ARTURIAENT_ALTER.dds"  BackgroundImage="LEADER_FATE_ARTURIA_ALTER_BACKGROUND_LOAD.dds" PlayDawnOfManAudio="0"/>
+	</LoadingInfo>
+	<DiplomacyInfo>
+		<Row Type="LEADER_ARTURIAENT_ALTER" BackgroundImage="LEADER_FATE_ARTURIA_ALTER_BACKGROUND.dds"/>
+	</DiplomacyInfo>
+</GameData>

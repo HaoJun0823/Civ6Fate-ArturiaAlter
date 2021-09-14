@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Arturia_Alter_Loc_Pre -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 2018/12/30 14:25:59 -->
+<GameData>
+	<BaseGameText>
+
+		<Row Tag="LOC_TRAIT_LEADER_EXCALIBUR_ALTER_NAME"    >
+			<Text>Excalibur Morgan</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_EXCALIBUR_ALTER_DESCRIPTION"   >
+			<Text>Melee, light cavalry, and heavy cavalry units attacking enemies can cause splash damage in the fan-shaped range behind them.</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_ARTURIAENT_ALTER_NAME"   >
+			<Text>Altria Pendragon(Alter)</Text>
+		</Row>
+		
+	</BaseGameText>
+	<LocalizedText>
+
+
+		<Row Tag="LOC_TRAIT_LEADER_EXCALIBUR_ALTER_NAME"   Language="zh_Hans_CN" >
+			<Text>誓约胜利之剑</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_EXCALIBUR_ALTER_NAME"   Language="zh_Hant_HK" >
+			<Text>誓約勝利之劍</Text>
+		</Row>
+
+
+		<Row Tag="LOC_TRAIT_LEADER_EXCALIBUR_ALTER_DESCRIPTION"   Language="zh_Hans_CN" >
+			<Text>肉搏、轻骑兵、重骑兵单位攻击敌人会对他们身后扇形范围内造成溅射伤害。</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_EXCALIBUR_ALTER_DESCRIPTION"   Language="zh_Hant_HK" >
+			<Text>肉搏、輕騎兵、重騎兵單位攻擊敵人會對他們身後扇形範圍內造成濺射傷害。</Text>
+		</Row>
+
+
+		<Row Tag="LOC_LEADER_ARTURIAENT_ALTER_NAME"   Language="zh_Hans_CN" >
+			<Text>阿尔托莉雅·潘德拉贡(Alter)</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_ARTURIAENT_ALTER_NAME"   Language="zh_Hant_HK" >
+			<Text>阿爾托莉雅·潘德拉貢(Alter)</Text>
+		</Row>
+
+	
+	
+	</LocalizedText>
+	
+	
+</GameData>

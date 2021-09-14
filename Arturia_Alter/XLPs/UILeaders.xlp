@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ARTURIA_ALTER_BACKGROUND"/>
+			<m_ObjectName text="LEADER_FATE_ARTURIA_ALTER_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ARTURIA_ALTER_BACKGROUND_LOAD"/>
+			<m_ObjectName text="LEADER_FATE_ARTURIA_ALTER_BACKGROUND_LOAD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ARTURIAENT_ALTER_NEUTRAL"/>
+			<m_ObjectName text="LEADER_FATE_ARTURIAENT_ALTER_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_NEUTRAL_ARTURIAENT_ALTER"/>
+			<m_ObjectName text="LEADER_NEUTRAL_ARTURIAENT_ALTER"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_ARTURIAENT_ALTER_CIV"/>
+			<m_ObjectName text="ICON_FATE_ARTURIAENT_ALTER_CIV"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_ARTURIA_ALTER_256"/>
+			<m_ObjectName text="ICON_FATE_ARTURIA_ALTER_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_ARTURIA_ALTER_32"/>
+			<m_ObjectName text="ICON_FATE_ARTURIA_ALTER_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_ARTURIA_ALTER_45"/>
+			<m_ObjectName text="ICON_FATE_ARTURIA_ALTER_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_ARTURIA_ALTER_48"/>
+			<m_ObjectName text="ICON_FATE_ARTURIA_ALTER_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_ARTURIA_ALTER_50"/>
+			<m_ObjectName text="ICON_FATE_ARTURIA_ALTER_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_ARTURIA_ALTER_55"/>
+			<m_ObjectName text="ICON_FATE_ARTURIA_ALTER_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_ARTURIA_ALTER_64"/>
+			<m_ObjectName text="ICON_FATE_ARTURIA_ALTER_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_ARTURIA_ALTER_80"/>
+			<m_ObjectName text="ICON_FATE_ARTURIA_ALTER_80"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+
